@@ -1,0 +1,26 @@
+{
+  "name": "router_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./scripts/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romanich141/Router-Express-JS.git"
+  },
+  "author": "roma_ovcharenko <roma_ovcharenko@ukr.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romanich141/Router-Express-JS/issues"
+  },
+  "homepage": "https://github.com/romanich141/Router-Express-JS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}

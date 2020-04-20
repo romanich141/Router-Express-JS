@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header {
+    min-height: 10vh;
+}
+ul {
+    display: flex;
+}
+a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
